@@ -1,0 +1,59 @@
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-image: url(./assets/bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.logger {
+  display: flex;
+  text-align: center;
+}
+
+.login-form {
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto;
+  width: 60%;
+}
+
+a {
+
+  text-decoration: none;
+  color: inherit;
+}
+
+.text-gray {
+  color: gray;
+
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-list-item {
+  margin: auto 15px;
+}
+
+.nav-list-item:hover {
+  cursor: pointer;
+}
+
+.lost_list {
+  padding-top: 200px;
+}
+
+.footer-icons {
+  display: flex;
+
+  justify-content: flex-end;
+}

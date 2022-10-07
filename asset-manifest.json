@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spotted/static/css/main.99d4d5b1.css",
+    "main.js": "/spotted/static/js/main.6ba9ea98.js",
+    "static/media/front.jpg": "/spotted/static/media/front.365bce4d97d203f8f5f6.jpg",
+    "static/media/bg.jpg": "/spotted/static/media/bg.97b88ec1f0165fe92904.jpg",
+    "static/media/logo.png": "/spotted/static/media/logo.836b1d1811fffaa522a8.png",
+    "index.html": "/spotted/index.html",
+    "main.99d4d5b1.css.map": "/spotted/static/css/main.99d4d5b1.css.map",
+    "main.6ba9ea98.js.map": "/spotted/static/js/main.6ba9ea98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99d4d5b1.css",
+    "static/js/main.6ba9ea98.js"
+  ]
+}
